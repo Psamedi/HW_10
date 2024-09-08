@@ -1,0 +1,105 @@
+    1  cd
+    2  cd/цей ПК/Робочий стіл/lessom32
+    3  Ls
+    4  cd
+    5  git config -- global user.name "Samedi" 
+    6  dir
+    7  git
+    8  git config
+    9  git help config
+   10  git help
+   11  git config --global user.name "Samedi"
+   12  git comfig --global user.email "psamedi23.09@gmail.com"
+   13  git config --global user.email "psamedi23.09@gmail.com"
+   14  git clone https://github.com/Psamedi/HW_10.git
+   15  dir
+   16  cd HW_10
+   17  dir
+   18  help
+   19  help touch
+   20  touch
+   21  touch text_ignore.txt
+   22  dir
+   23  git status
+   24  git add
+   25  git commit
+   26  git add
+   27  git add.
+   28  git add .
+   29  git commit
+   30  git checkout -b develop
+   31  touch develop_test.txt
+   32  git add
+   33  git commit
+   34  git checkout -b develop
+   35  touch develop_test.txt
+   36  git add .
+   37  git commit -m "psamedi23.09@gmail.com"
+   38  dir
+   39  C:\Users\admin\Desktop\lessom32
+   40  C:\Users
+   41  C:
+   42  cd C:
+   43  cd c:\Users
+   44  cd c:\Users\admin\Desktop\lessom32
+   45  cd c:\Users\admin
+   46  dir admin
+   47  cd c:\Users\admin
+   48  dir Users
+   49  cd C:\Users
+   50  cd C:\Users\admin
+   51  dir Users
+   52  cd C:\Users\admin
+   53  C:
+   54  cd C:
+   55  cd C:\Users
+   56  dir
+   57  cd admin
+   58  dir
+   59  cd Desktop
+   60  dir
+   61  cd lessom32
+   62  dir
+   63  cd HW_10
+   64  git branch
+   65  git branch develop
+   66  git branch
+   67  git help
+   68  git checkout help
+   69  git checkout develop
+   70  touch develop_test.txt
+   71  git add .
+   72  git commit
+   73  git branch
+   74  git switch develop
+   75  git add .
+   76  git commit
+   77  dir
+   78  cd C:\Users\admin
+   79  dir
+   80  cd C\Users
+   81  cd C:
+   82  cd Users
+   83  cd admin
+   84  cd Desktop
+   85  dir
+   86  cd lessom32
+   87  git branch
+   88  cd HW_10
+   89  git branch
+   90  git add .
+   91  git commit -m "Test"
+   92  git push origin develop
+   93  dir
+   94  cd Desktop
+   95  cd lessom32
+   96  cd HW_10
+   97  git status
+   98  git add .
+   99  git commit -m "Test"
+  100  git checkout main
+  101  git help
+  102  git merge help
+  103  git merge develop
+  104  git log
+  105  history >command_lists.csv
